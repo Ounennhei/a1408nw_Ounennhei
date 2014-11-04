@@ -20,13 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-Input number
+Input a random number of seconds
 
 An Example:
 
 Please input the wanted interval with seconds!
 
-10 (Please input a random seconds number such as '10' here and enter)
+10 (Please input a random number of seconds such as '10' here and enter)
 
 (Here is the output.)
 
