@@ -20,7 +20,22 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Input number
+
+An Example:
+
+Please input the wanted interval with seconds!
+10 #input number as seconds.such as 10
+
+#output
+
+Current Time is:2014-11-04 11:48:49 +0000
+
+Past Time is:2014-11-04 11:48:39 +0000
+
+Future Time is:2014-11-04 11:48:59 +0000
+
+Interval is:10s
 
 ## Contributing
 
