@@ -25,10 +25,9 @@ Input number
 An Example:
 
 Please input the wanted interval with seconds!
-10 #input number as seconds.such as 10
+10 (Please input a random seconds number here and enter)
 
-#output
-
+(Here is the output.)
 Current Time is:2014-11-04 11:48:49 +0000
 
 Past Time is:2014-11-04 11:48:39 +0000
